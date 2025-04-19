@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Garden Manager App is a standalone, visually stunning, and highly interactive tool for planning, tracking, and optimizing garden beds. It delivers a fully 3D representation of the user's garden, leveraging detailed inputs to drive intelligent companion planting and environmental insights. The app focuses on local garden data, plant compatibility, and environmental tracking, without login or NPK calculator features. This design prioritizes a biomorphic, immersive experience with smooth animations, intuitive controls, and robust performance across mobile and desktop platforms.
+The Garden Manager App is a standalone, visually stunning, and highly interactive tool for planning, tracking, and optimizing garden beds. It delivers a fully 3D representation of the user's garden, leveraging detailed inputs to drive intelligent companion planting and environmental insights. The app focuses on local garden data, plant compatibility, and environmental tracking. This design prioritizes a biomorphic, immersive experience with smooth animations, intuitive controls, and robust performance across mobile and desktop platforms.
 
 ## Technology Stack
 

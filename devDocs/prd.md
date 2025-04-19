@@ -10,7 +10,7 @@ Garden Manager App - Full Product Requirements Document (PRD)
 
 
 
-This app is a standalone garden manager designed to help users plan, track, and optimize their garden beds with intelligent companion planting and environmental insights. It does not include login functionality or NPK calculator features. Its focus is solely on local garden data, plant compatibility, and environmental tracking. The core user experience will be centered around a visually stunning, highly interactive, and fully 3D representation of the user's garden.
+This app is a standalone garden manager designed to help users plan, track, and optimize their garden beds with intelligent companion planting and environmental insights. Its focus is on garden data, plant compatibility, and environmental tracking. The core user experience will be centered around a visually stunning, highly interactive, and fully 3D representation of the user's garden.
 
 
 
@@ -211,12 +211,9 @@ This app is a standalone garden manager designed to help users plan, track, and 
 ## Data Storage
 
 
-The application utilizes a local database for storing garden plans and plant information.
+The application utilizes a database for storing garden plans and plant information.
 
-- **Database Location:** C:\coding projects\database\garden_database
-- **Running Address:** http://localhost:8000
-
-
+- **Database Source:** The project will be using the database located at `https://github.com/papakonnekt/garden_database`.
 
 ---
 
@@ -225,5 +222,13 @@ The application utilizes a local database for storing garden plans and plant inf
 ### Summary
 
 
+---
+
+
+
+## Authentication
+
+
+A login feature will be implemented before the final product is released.
 
 This app leverages detailed user inputs to drive smart gardening recommendations within a cutting-edge, fully 3D interactive environment. The focus is on providing a visually rich and intuitive experience where users can design, simulate, and manage their garden with unprecedented clarity. The advanced companion planting engine, integrated directly into the 3D visualization, empowers users to make confident choices for healthier, more synergistic gardens, supported by clear visual feedback and data-driven insights. The detailed requirements outlined here will inform the `design.md` process to select the optimal technology stack for delivering this next-generation garden planning tool.
